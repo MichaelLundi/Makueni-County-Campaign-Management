@@ -1,0 +1,6 @@
+{
+  "name": "County Campaign Manager",
+  "description": "Mobile-friendly campaign operations portal for county governor campaigns, managing field activities, grassroots tasks, community issues, user access, and campaign teams.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
